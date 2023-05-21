@@ -13,18 +13,18 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 - Finally, it asks the user to input a letter to start guessing the word and checks that the user inputed a letter that is in the alphabet and not a number or a symbol.
 - The code is below:
 > '''import random
-
-word_list = ["mango", "papaya", "tangerine", "raspberry", "pineapple"]
-print(word_list)
-
-word = random.choice(word_list)
-print(word)
-
-guess = input("Please input a letter: ")
-if len(guess) == 1 and guess.isalpha():
-    print("Good guess!")
-else:
-    print("Oops! That is not a valid input.")
-'''
+>
+> word_list = ["mango", "papaya", "tangerine", "raspberry", "pineapple"]
+> print(word_list)
+> 
+> word = random.choice(word_list)
+> print(word)
+>
+> guess = input("Please input a letter: ")
+> if len(guess) == 1 and guess.isalpha():
+>    print("Good guess!")
+> else:
+>    print("Oops! That is not a valid input.")
+>'''
 
 
