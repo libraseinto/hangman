@@ -27,4 +27,4 @@ This is an implementation of the Hangman game, where the computer thinks of a wo
 >    print("Oops! That is not a valid input.")
 >'''
 
-> ![Milestone_2](C:\Users\alexa\OneDrive\Desktop\Milestone_2.PNG)  
+> ![Milestone_2](C:\Users\alexa\OneDrive\Desktop\Milestone_2.png)  
